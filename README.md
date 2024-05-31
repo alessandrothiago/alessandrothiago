@@ -1,16 +1,17 @@
-## Hi there 👋
+<!--<img align="left" height="150" src="https://avatars.githubusercontent.com/u/36868958?s=400&u=e9eee92b01e2a0b9265b06c682f825f23a69c0ce&v=4"  />-->
 
-<!--
-**alessandrothiago/alessandrothiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Olá, sou Alessandro. <br>Estudando Python e em busca de oportunidades.
+  <br>
+  <div align="left">
+    <br>
+  <a href="alessandro.thiago4141@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alessandro-thiago-rodrigues-8ab70a308/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+</h2>
+<p style="text-align: justify;text-justify: inter-word;">
+</p>
